@@ -48,9 +48,16 @@ radius = float(radius_string)
 # calculate the area using the numeric value (not the string)
 area = pi * radius**2
 
+# round the area to two decimal places
+area = round(area, 2)
+
+
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
 logger.info("Eww... that's a lot of decimal places - tmi!")
+logger.info({area})
+
+
 
 
 # TODO Round the area to two decimal places.

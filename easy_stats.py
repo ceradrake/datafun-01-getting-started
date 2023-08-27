@@ -104,12 +104,17 @@ var = statistics.variance(uni_data)
 stdev = statistics.stdev(uni_data)
 lowest = min(uni_data)
 highest = max(uni_data)
+var = round(var, 2)
+stdev = round(stdev, 2)
+lowest = round(lowest, 2)
+highest = round(highest, 2)
+
 
 # TODO: change to f-strings and display 2 decimal places (like we did above)
-logger.info("var    = " + str(var))
-logger.info("stdev  = " + str(stdev))
-logger.info("lowest = " + str(lowest))
-logger.info("highest= " + str(highest))
+logger.info(f"var    = " + str(var))
+logger.info(f"stdev  = " + str(stdev))
+logger.info(f"lowest = " + str(lowest))
+logger.info(f"highest= " + str(highest))
 
 
 # Descriptive: Univariant Time Series Data.........................

@@ -1,0 +1,14 @@
+2023-08-26 21:18:57,456.basic_functions.INFO ==================================================
+2023-08-26 21:18:57,456.basic_functions.INFO Today is 2023-08-26 at 09:18 PM
+2023-08-26 21:18:57,489.basic_functions.INFO Running on: nt Windows 10
+2023-08-26 21:18:57,489.basic_functions.INFO Python version:  3.11.4
+2023-08-26 21:18:57,489.basic_functions.INFO Python path: C:\Users\cerad\AppData\Local\Programs\Python\Python311
+2023-08-26 21:18:57,489.basic_functions.INFO Working dir: C:\Users\cerad\OneDrive\Desktop\Data Analytics Fundamentals 44608-80.81\datafun-01-getting-started
+2023-08-26 21:18:57,489.basic_functions.INFO ==================================================
+2023-08-26 21:18:57,493.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-26 21:18:57,501.basic_functions.INFO number_list = [1, 2, 3, 4, 5]
+2023-08-26 21:18:57,501.basic_functions.INFO len(number_list) = 5
+2023-08-26 21:18:57,501.basic_functions.INFO min(number_list) = 1
+2023-08-26 21:18:57,501.basic_functions.INFO max(number_list) = 5
+2023-08-26 21:19:01,083.basic_functions.INFO message = Hello Cra!
+2023-08-26 21:19:02,831.basic_functions.INFO response = n

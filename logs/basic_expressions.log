@@ -1,10 +1,11 @@
-2023-08-26 20:49:17,651.basic_expressions.INFO ==================================================
-2023-08-26 20:49:17,653.basic_expressions.INFO Today is 2023-08-26 at 08:49 PM
-2023-08-26 20:49:17,684.basic_expressions.INFO Running on: nt Windows 10
-2023-08-26 20:49:17,684.basic_expressions.INFO Python version:  3.11.4
-2023-08-26 20:49:17,684.basic_expressions.INFO Python path: C:\Users\cerad\AppData\Local\Programs\Python\Python311
-2023-08-26 20:49:17,684.basic_expressions.INFO Working dir: C:\Users\cerad\OneDrive\Desktop\Data Analytics Fundamentals 44608-80.81\datafun-01-getting-started
-2023-08-26 20:49:17,684.basic_expressions.INFO ==================================================
-2023-08-26 20:49:17,684.basic_expressions.INFO Given base=17 and height=5, triangle area = 42.5
-2023-08-26 20:49:17,684.basic_expressions.INFO Given float_num1=1.1 and float_num2=2.2, sum = 3.3000000000000003
-2023-08-26 20:49:17,684.basic_expressions.INFO Given num1=40 and num2=70, the difference = -30
+2023-08-26 20:54:05,998.basic_expressions.INFO ==================================================
+2023-08-26 20:54:06,001.basic_expressions.INFO Today is 2023-08-26 at 08:54 PM
+2023-08-26 20:54:06,028.basic_expressions.INFO Running on: nt Windows 10
+2023-08-26 20:54:06,028.basic_expressions.INFO Python version:  3.11.4
+2023-08-26 20:54:06,028.basic_expressions.INFO Python path: C:\Users\cerad\AppData\Local\Programs\Python\Python311
+2023-08-26 20:54:06,028.basic_expressions.INFO Working dir: C:\Users\cerad\OneDrive\Desktop\Data Analytics Fundamentals 44608-80.81\datafun-01-getting-started
+2023-08-26 20:54:06,030.basic_expressions.INFO ==================================================
+2023-08-26 20:54:06,030.basic_expressions.INFO Given base=17 and height=5, triangle area = 42.5
+2023-08-26 20:54:06,030.basic_expressions.INFO Given float_num1=1.1 and float_num2=2.2, sum = 3.3000000000000003
+2023-08-26 20:54:06,030.basic_expressions.INFO Given num1=40 and num2=70, the difference = -30
+2023-08-26 20:54:06,030.basic_expressions.INFO Given length=15 and width=25,rectangle area = 375
